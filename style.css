@@ -60,7 +60,8 @@ html, body {
 }
 
 .lead {
-    color: white
+    color: #333;
+    font-weight: 500;
 }
 .rowcontact {
     margin-top: 25px;
