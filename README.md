@@ -43,7 +43,7 @@ This website can be used to attract potential clients as well as job recruiters.
 
 It's not a pretty website, but it will get the job done for my first attempt at a multi-pager from scratch.  
 
-I really enjoyed this assignment because it pushed me to use Google more than I have previously thought possible. And what do you know? I was able to find 90% of the answers and implement them into my application.  
+I really enjoyed this assignment because it pushed me to use Google more than I had previously thought possible. And what do you know? I was able to find 90% of the answers and implement them into my application.  
 
 However, I still have lingering questions regarding the Bootstrap Grid system and will have to address those with the instructor soon.  But I feel like I'm starting to grasp more and more each day and that is a good feeling for someone who, when it comes to web development, is the definition of "green behind the ears."
 
