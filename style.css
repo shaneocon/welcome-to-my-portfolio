@@ -1,9 +1,14 @@
 body {
-    background-color: gray
+    background-color: gray;
+    height: 800px
 }
 .lead {
     color: white
 }
 .rowcontact {
     margin-top: 25px;
+}
+.address p{
+    font weight: 600;
+
 }
