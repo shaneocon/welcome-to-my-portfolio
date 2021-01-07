@@ -19,6 +19,8 @@ My portfolio is a minimalist approach to reflect the beginnings of my career as 
 
 This website can be used to attract potential clients as well as job recruiters.  It will detail professional projects while also granting a window into a bit of my personal bio.  
 
+#### Check out the links around the page for a surprise Jerry shred!
+
 
 ![Website Screenshot](images/website-screenshot1.png)
 
