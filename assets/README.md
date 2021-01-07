@@ -26,7 +26,7 @@
 This website can be used to attract potential clients as well as job recruiters.  It will detail professional projects while also granting a window into a bit of my personal bio.  
 
 
-![Website Screenshot](images/website-screenshot.png)
+![Website Screenshot](images/website-screenshot1.png)
 
 
 
