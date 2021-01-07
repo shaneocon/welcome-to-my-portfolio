@@ -1,6 +1,7 @@
 # SPO Port-fo-lio Assignment
 ## Shane O'Connell
-### 12-8-2020
+### Original: 12-8-2020
+### Update #1: 1-6-2020
 ### Project Status: Complete
 ### https://shaneocon.github.io/welcome-to-my-portfolio/index.html
 ## Description
