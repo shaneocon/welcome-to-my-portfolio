@@ -5,16 +5,9 @@
 ### Project Status: Complete
 ### https://shaneocon.github.io/welcome-to-my-portfolio/index.html
 ## Description
- 
-- Functional, deployed application
-- GitHub repository with README describing the project
-- Navbar must be consistent on each page.
-- Navbar on each page must contain links to Home/About Contact, and Portfolio pages.
-- All links must work.
-- Must use semantic html.
-- Each page must have valid and correct HTML. (use a validation service)
-- Must contain your personalized information. (bio, name, images, links to social media, etc.)
-- Must properly utilize Bootstrap components and grid system.
+
+My portfolio is a minimalist approach to reflect the beginnings of my career as a developer.  I know that with time, my page will grow and change to incorporate far more than it currently displays. 
+
 
 
 ## Solution
@@ -34,15 +27,13 @@ This website can be used to attract potential clients as well as job recruiters.
 
 ## Bootstrap Features
 ##### Grid Styling
-##### Image Carousel
-##### Portfolio Cards
 ##### Hover Buttons on front page
-##### Fully Functional Navbar
+##### Repsonsive Design
 
 
 # Summary
 
-It's not a pretty website, but it will get the job done for my first attempt at a multi-pager from scratch.  
+(as of 12-8-2020) It's not a pretty website, but it will get the job done for my first attempt at a multi-pager from scratch.  
 
 I really enjoyed this assignment because it pushed me to use Google more than I had previously thought possible. And what do you know? I was able to find 90% of the answers and implement them into my application.  
 
