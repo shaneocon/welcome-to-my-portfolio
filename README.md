@@ -2,7 +2,7 @@
 ## Shane O'Connell
 ### Original: 12-8-2020
 ### Update #1: 1-6-2020
-### Project Status: Complete
+### Update #2: 2-4-2021
 ### https://shaneocon.github.io/welcome-to-my-portfolio/index.html
 ## Description
 
